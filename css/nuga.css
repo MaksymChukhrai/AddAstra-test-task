@@ -35,3 +35,12 @@ h3 .speaker{
     font-weight: bold;
     unicode-bidi: isolate;
 }
+.authors{
+  margin-top: 15px !important;
+  -webkit-align-items: center;
+  display: -webkit-flex;
+  display: flex;
+  margin-top: -15px;
+  flex-wrap: wrap;
+  align-items: flex-end;
+}
